@@ -1,0 +1,5 @@
+/home/vasily/Projects/opencv_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/vasily/Projects/opencv_cpp/build/CMakeFiles/edit_cache.dir
+/home/vasily/Projects/opencv_cpp/build/CMakeFiles/optical_2.dir
+/home/vasily/Projects/opencv_cpp/build/CMakeFiles/aruco_board.dir
+/home/vasily/Projects/opencv_cpp/build/CMakeFiles/aruco.dir

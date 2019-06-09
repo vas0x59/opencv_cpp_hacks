@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vasily/opencv_cpp",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv    -o CMakeFiles/aruco.dir/aruco.cpp.o -c /home/vasily/opencv_cpp/aruco.cpp",
+  "file": "/home/vasily/opencv_cpp/aruco.cpp"
+}
+]

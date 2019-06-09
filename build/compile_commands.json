@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/vasily/Projects/opencv_cpp/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -g   -o CMakeFiles/optical_2.dir/optical_flow.cpp.o -c /home/vasily/Projects/opencv_cpp/optical_flow.cpp",
+  "file": "/home/vasily/Projects/opencv_cpp/optical_flow.cpp"
+},
+
+{
+  "directory": "/home/vasily/Projects/opencv_cpp/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -g   -o CMakeFiles/aruco_board.dir/aruco_board.cpp.o -c /home/vasily/Projects/opencv_cpp/aruco_board.cpp",
+  "file": "/home/vasily/Projects/opencv_cpp/aruco_board.cpp"
+},
+
+{
+  "directory": "/home/vasily/Projects/opencv_cpp/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -g   -o CMakeFiles/aruco.dir/aruco.cpp.o -c /home/vasily/Projects/opencv_cpp/aruco.cpp",
+  "file": "/home/vasily/Projects/opencv_cpp/aruco.cpp"
+}
+]
